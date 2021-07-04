@@ -1,0 +1,50 @@
+body{
+    font-family: 'Play', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: firebrick;
+    margin: 0;
+}
+.space{
+    margin-bottom: 25px;
+}
+.flexible{
+    display: flex;
+    margin-right: 20px;
+    margin-left: 5px;
+    margin-top: 120px;
+}
+.top-banner{
+    background-image: url(images/rainbow-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.half-width img{
+    width: 100%;
+    border: 2px solid white;
+    box-shadow: 15px 15px 40px gray;
+    border-radius: 20px;
+}
+.half-width p{
+    text-align: justify;
+    background-color: lightgreen;
+    border: 10px solid greenyellow;
+    border-radius: 15px;
+    padding: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#dcf111, #e5942f);
+    color: black;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 25%;
+}
