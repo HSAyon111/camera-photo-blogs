@@ -10,6 +10,7 @@ h1{
 }
 .space{
     margin-bottom: 25px;
+    margin-left: 10px;
 }
 .flexible{
     display: flex;
@@ -20,6 +21,7 @@ h1{
 .top-banner{
     background-image: url(images/rainbow-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 75px;
 }
 .half-width{
     width: 50%;
@@ -47,4 +49,15 @@ h1{
     padding: 10px 20px;
     border-radius: 5px;
     margin-left: 25%;
+}
+hr{
+    margin-bottom: 75px;
+}
+#custom-1{
+    text-align: justify;
+    background-color: salmon ;
+    border: 10px solid maroon;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 5px;
 }
