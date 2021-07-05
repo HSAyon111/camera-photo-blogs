@@ -32,6 +32,24 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
+.side-banner3{
+    background-image: url(images/dew-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40%;
+}
+.side-banner4{
+    background-image: url(images/coke-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 25%;
+}
+.side-banner5{
+    background-image: url(images/flower-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 38%;
+}
 .half-width{
     width: 50%;
     padding-left: 10px;
@@ -72,6 +90,21 @@ hr{
     text-align: justify;
     background-color: mediumpurple;
     border-color: purple;
+}
+#custom-3{
+    text-align: justify;
+    background-color: rgb(224, 224, 76);
+    border-color: #e5942f;
+}
+#custom-4{
+    text-align: justify;
+    background-color: gray;
+    border-color:lightslategray;
+}
+#custom-5{
+    text-align: justify;
+    background-color: plum;
+    border-color: tomato;
 }
 strong{
     margin-left: 70px;
